@@ -2,4 +2,8 @@ hello git
 second
 third - my branch
 fourth -my branch
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1 추가
+>>>>>>> 36b15ea (새로운 기능1 추가)
